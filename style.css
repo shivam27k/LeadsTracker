@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  min-width: 400px;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+input[type='text'] {
+  width: 98.9%;
+  height: 4rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 1.6rem;
+  margin: 10px 5px 10px 5px;
+  color: #3f5c2d;
+  border-radius: none;
+  background-color: #fff;
+  border: 2px solid #5f9341;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #5f9341;
+  color: white;
+  border: 1px solid #5f9341;
+  width: 12rem;
+  height: 4rem;
+  margin-left: 5px;
+  font-size: 1.3rem;
+  font-weight: 800;
+  cursor: pointer;
+  transition: 0.1s all;
+}
+
+#del-btn {
+  color: #5f9341;
+  background-color: white;
+  border: 2px solid #5f9341;
+  width: 12rem;
+  height: 4rem;
+  margin-left: 5px;
+  font-size: 1.3rem;
+  font-weight: 800;
+  cursor: pointer;
+  transition: 0.1s all;
+}
+
+button:active {
+  transform: scale(0.97);
+  border-radius: none;
+  box-shadow: 2px 1px 7px 1px #1d3b0ebb;
+}
+
+ul {
+  font-size: 1.5rem;
+  list-style: none;
+  margin-top: 20px;
+  margin-left: 5px;
+  padding-left: 0;
+  width: 100%;
+}
+
+ul li {
+  padding-top: 8px;
+}
+
+li a {
+  font-size: 1.7rem;
+  color: #5f9341;
+}
