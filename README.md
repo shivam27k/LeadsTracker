@@ -2,7 +2,7 @@
 
 ## Overview
 
-MyLeads is a simple Chrome extension that allows users to save URLs for easy access later. Users can input URLs manually, save the currently active tab, and clear all saved URLs with a double click. The saved URLs are stored in the browser's local storage, ensuring they persist across sessions.
+Leads Tracker is a simple Chrome extension that allows users to save URLs for easy access later. Users can input URLs manually, save the currently active tab, and clear all saved URLs with a double click. The saved URLs are stored in the browser's local storage, ensuring they persist across sessions.
 
 ## Features
 
